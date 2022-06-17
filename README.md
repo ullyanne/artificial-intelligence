@@ -52,7 +52,7 @@ inicial deve ser mantida, uma vez que o caixeiro mora lá :smiley: A rota é fec
 ### Tabela de distâncias das cidades
 ![Tabela de distâncias das cidades](docs/imgs/travelling%20salesman.png)
 
-:white_check_mark: Resolução
+:white_check_mark: [Resolução](travelling%20salesman.py)
 
 ## :four: Jogo para dois jogadores
 
